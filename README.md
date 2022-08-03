@@ -1,12 +1,10 @@
 # Calculating the stellar density of a Globular Cluster with Python's Numerical Libraries
 
-## Access the Data
-
-[Data](https://drive.google.com/file/d/11UnLbm49pU8bNdL_FicelwxlQ1TvOVM_/view?usp=sharing)
-
 ## Introduction
 
 This project is based on an image of a dense star cluster (globular cluster NGC 104, a.k.a. 47 Tuc) obtained by the UVIS detector of the Wide Field Camera 3 (WFC3) on the Hubble Space Telescope. The file containing the image data, `ic2r02050_drz.fits` is in FITS format. The image data we need is in the first (‘SCI’) extension. One of the main goals of this project is to carry out an analysis of the distribution of stars in the cluster, using a variety of sub-packages from `Astropy`, `NumPy` and `Scipy`.
+
+[Data](https://drive.google.com/file/d/11UnLbm49pU8bNdL_FicelwxlQ1TvOVM_/view?usp=sharing)
 
 ## Code Overview
 
