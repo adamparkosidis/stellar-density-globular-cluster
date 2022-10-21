@@ -1,4 +1,4 @@
-# Calculating the stellar density of a Globular Cluster with Python's Numerical Libraries
+# Calculating the stellar density of a NGC 104 globular cluster with Python's Numerical Libraries
 
 ## Introduction
 
